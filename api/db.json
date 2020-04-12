@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Great Stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "This is next stream",
+      "id": 2
+    },
+    {
+      "title": "Me streaming component reuse",
+      "description": "This stream is refactoring",
+      "id": 4
+    }
+  ]
+}
